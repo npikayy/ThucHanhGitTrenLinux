@@ -1,2 +1,1 @@
-# Bài thực hành Git
-Noi dung them moi
+Dong 1 sua boi Branch A
